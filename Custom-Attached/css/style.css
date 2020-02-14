@@ -1,6 +1,6 @@
 body{
-    background-color: #333;
-    color: #fff;
+    /* background-color: #333;
+    color: #fff; */
     font-family: 'Source Sans Pro', sans-serif;
 }
 .border-bottom-color{
@@ -13,7 +13,9 @@ body{
     border-radius : 5px;
     padding:30px;
 }
-
+a.link-active {
+    color: #f16821 !important;
+}
 @media (max-width: 575.98px) { 
     h1{
         font-size : 30px;
