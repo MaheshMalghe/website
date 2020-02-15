@@ -25,3 +25,25 @@ a.link-active {
         height: 4px;
     }
 }
+.sliderAbove{
+    position: absolute;
+    /* left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); */
+    background-color: rgba(0,0,0,0.5);
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h3brand a{
+    font-size: 30px;
+    color: #f16821 !important;
+}
+.unit-4-icon .text-primary{
+    color: #f16821 !important;
+}
+p a.active{
+    color: #f16821 !important;
+}
